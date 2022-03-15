@@ -1,0 +1,160 @@
+.authorization-page {
+    background-image: url(../../../assets/pictures/jpeg/background.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    overflow: hidden
+}
+
+.counters {
+    width: 15px;
+    border-radius: 50%;
+    padding: 5px 8px
+}
+
+.bg-filter {
+    position: relative
+}
+
+.bg-filter:before {
+    background: rgba(0, 0, 0, .5)
+}
+
+.bg-filter:after {
+    background: rgba(132, 13, 121, .88);
+    background: linear-gradient(45deg, rgba(132, 13, 121, .88), rgba(208, 44, 180, .31));
+    background: -webkit-linear-gradient(135deg, rgba(132, 13, 121, .88), rgba(208, 44, 180, .31))
+}
+
+
+
+footer {
+    margin-left: 20px;
+    margin-right: 20px
+}
+
+.div_lessons_description_text {
+    font-size: 12px;
+    float: left;
+    margin-right: 10px
+}
+
+.div_lessons_description {
+    margin-right: 5px;
+    font-weight: 700;
+    overflow: hidden;
+    font-size: 10px;
+    line-height: 18px;
+    float: left
+}
+
+.div_lessons {
+    cursor: pointer;
+    padding: 3px;
+    margin: 3px;
+    border-radius: 3px;
+    width: 42px;
+    height: 42px;
+    overflow: hidden;
+    font-size: 12px;
+    line-height: 18px;
+    float: left;
+    font-weight: 700
+}
+
+.lessons_sucsess {
+    background: #2dce89;
+    color: #000
+}
+
+.lessons_cancel {
+    background: #f54852;
+    color: #000;
+    text-decoration: line-through
+}
+
+.lessons_ready {
+    background: #bdbdbd;
+    color: #000
+}
+
+.lessons_pay {
+    background: #bd774c;
+    color: #000
+}
+
+.lessons_prob {
+    background: #20a4bd;
+    color: #000
+}
+
+.fa_lessons {
+    width: 1.1em
+}
+
+.lessons_today {
+    padding: 3px;
+    margin: 3px;
+    border-radius: 3px;
+    width: 55px;
+    height: 42px;
+    overflow: hidden;
+    font-size: 10px;
+    line-height: 18px;
+    float: left;
+    font-weight: 700;
+    border: 1px dashed;
+    color: #000
+}
+
+.reason_img {
+    height: 303px;
+    width: 119%;
+    object-fit: cover;
+}
+
+.mg_lessons {
+    margin-top: 5px;
+    margin-left: 8px;
+    margin-right: 8px
+}
+
+.dt_min_120 {
+    min-width: 120px
+}
+
+.dt_min_130 {
+    min-width: 130px
+}
+
+.dt_min_140 {
+    min-width: 140px
+}
+
+.dt_min_150 {
+    min-width: 150px
+}
+
+.dt_min_160 {
+    min-width: 160px
+}
+
+.dt_min_210 {
+    min-width: 210px
+}
+
+.dt_min_100 {
+    min-width: 100px
+}
+
+.dt_min_170 {
+    min-width: 170px
+}
+
+.dt_min_180 {
+    min-width: 180px
+}
+
+.dt_min_190 {
+    min-width: 190px
+}
